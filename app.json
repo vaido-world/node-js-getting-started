@@ -6,7 +6,7 @@
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs",
   "formation": {
-    "web": {
+    "worker": {
       "quantity": 1,
       "size": "standard-1x"
     }
