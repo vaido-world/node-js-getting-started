@@ -8,7 +8,8 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "standard-1x"
+      "size": "standard-1x",
+      "command": "python bumper.py"
     }
   }
   
